@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+!*jinput.jar
+!*lwjgl.jar
+!*lwjgl_util.jar
+!*minecraft.jar
+!*minecraft_server.jar
+Src/MCP/*/jars/saves/*
+Src/MCP/*/jars/stats/*
+Src/MCP/*/jars/config/*
+Src/MCP/*/jars/ForgeModLoader-*
+Src/MCP/mcp72/temp/*
+Src/MCP/mcp719/temp/*
+*.log
